@@ -1,0 +1,3 @@
+Prenom: Adams Lacine
+nom: Haidara
+specialite: Tronc commun
